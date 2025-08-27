@@ -64,4 +64,4 @@ Notebook ini terdiri dari beberapa tahap:
 - ✅ Promo terbukti meningkatkan demand, Epidemic menurunkan demand.
 - 🖼️ Visualisasi tren & forecast tersedia di notebook.
 - 
-Lihat detail analisis & plot di [Retail_Forecasting.ipynb](Retail_Forecasting.ipynb)
+Lihat detail analisis & plot di [Retail_Forecasting.ipynb]([Retail_Forecasting.ipynb](https://github.com/mutiarasamosir/Retail-Store-Inventory-and-Demand-Forecasting/blob/main/Retail%20Store%20Inventory%20and%20Demand%20Forecasting.ipynb))
