@@ -102,4 +102,5 @@ Dataset bersifat **synthetic**, dibuat untuk latihan forecasting & analisis inve
 
 1. Clone repo:
 ```bash
-git clone https://github.com/username/repo.git
+git clone https://github.com/mutiarasamosir
+/repo.git
